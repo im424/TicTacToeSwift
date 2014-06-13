@@ -1,13 +1,13 @@
-#Tic Tac Toe Using Swift
+TicTacToeSwift
+==============
 
-Simple and lazy swift implementation
+Simple Tic Tac Toe app that implementation by Swift
 
-##To-do
-
-- Better coding style
+##Todo list
+- Bettey Coding Style
 - AI
-- Fanncy icon :-)
+- Fanncy Icon
 
+##License
 
-##Copyright 
-Public Domain, feel free to fork it.
+MIT  
